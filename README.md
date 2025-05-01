@@ -1,5 +1,5 @@
 # Machine Learning Classification of Mental Health Conditions: Bipolar I Disorder, Bipolar II Disorder, Depression, and Healthy Individuals.
-
+[Canva Slides](https://www.canva.com/design/DAGmMEwtm7s/Y7IgHhQyN_s81ifnqmreGg/edit?utm_content=DAGmMEwtm7s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## Project Overview
 
 This project was developed as the final assignment for the **Introduction to Programming** course. It explores the application of Machine Learning techniques to the task of classifying mental health conditions, specifically focusing on differentiating between Bipolar I Disorder, Bipolar II Disorder, Major Depression, and healthy individuals.
