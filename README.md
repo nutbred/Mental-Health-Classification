@@ -35,8 +35,3 @@ Two primary machine learning models were implemented and evaluated for the class
 The performance of the implemented models was evaluated to determine their effectiveness in classifying the different conditions.
 
 * The primary metric used for evaluation was the **F1 Score**, which provides a balance between precision and recall.
-* [Optional: Briefly mention or link to specific results or charts if available in the repo]
-
-## Application and Future Improvements
-
-This project serves as an introduction to applying programming and machine learning to complex real-world problems like mental health diagnosis.
