@@ -4,8 +4,6 @@
 
 This project was developed as the final assignment for the **Introduction to Programming** course. It explores the application of Machine Learning techniques to the task of classifying mental health conditions, specifically focusing on differentiating between Bipolar I Disorder, Bipolar II Disorder, Major Depression, and healthy individuals.
 
-The project addresses the limitations of traditional diagnostic methods by leveraging Machine Learning's capability for rapid and accurate data analysis. The primary goal was to build a proof-of-concept tool to support automated diagnosis by classifying these distinct groups based on patient data.
-
 ## Data Description and Processing
 
 This section details the dataset used and the steps taken to prepare it for machine learning models.
